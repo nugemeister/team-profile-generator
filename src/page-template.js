@@ -2,7 +2,7 @@
 const generatePage = team => {
     
     // array for storing team member cards
-    const html [];
+    const html = [];
 
     // Manager Function
     const managerCard = manager => {
