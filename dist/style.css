@@ -1,0 +1,17 @@
+#title {
+    background-color: lightgrey;
+    padding: 1rem;
+}
+
+.card {
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.card-header {
+    background-color: lightsteelblue;
+}
+
+.card-title {
+    color: black;
+}
