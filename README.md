@@ -34,15 +34,30 @@ THEN I exit the application, and the HTML is generated
 
 ```
 
-## Link to Deployed Application
+## Installation
 
-The following link takes you to the deployed application: https://nugemeister.github.io/team-profile-generator/
+1. Clone down the repository onto your local machine using the `git clone` command.
+2. Run `npm install` to install necessary packages and dependencies.
+3. Enter the command `node index.js` to initialize the application, proceed by answering the following prompts.
+4. The resulting Team Profile HTML Page will be placed into the `dist/` folder for reference.
+
 <br></br>
 
-## Finished Page for Reference
+## Tests
+Enter the command `npm run test` to run the associated tests.
 
-The following image shows the web application's appearance and functionality:
+<br></br>
+## Video Demo
 
-![This is a screenshot of the live webpage.](./assets/10-object-oriented-programming-homework-screenshot.png)
+The following video shows the web application's appearance and functionality:
+
+![This is a recording of the live webpage.](./images/mockup.png)
+<br></br>
+
+## Provided Mock-Up for Reference
+
+The following image was provided as a directional mock-up for reference.
+
+![This is a screenshot of the provided mock-up image for reference.](./images/mockup.png)
 <br></br>
 
