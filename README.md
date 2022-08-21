@@ -51,7 +51,7 @@ Enter the command `npm run test` to run the associated tests.
 
 The following video shows the web application's appearance and functionality:
 
-![This is a recording of the live webpage.](./images/mockup.png)
+![This is a recording of the live webpage.](./images/Demo-team-profile-builder.mp4)
 <br></br>
 
 ## Provided Mock-Up for Reference
